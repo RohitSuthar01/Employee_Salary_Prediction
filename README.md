@@ -2,7 +2,7 @@
 
 A complete machine learning project that predicts an employee's salary based on factors like experience, education, job role, location, and company size — built using Python and scikit-learn.
 
----
+--- 
 
 ## 📖 What Is This Project?
 
