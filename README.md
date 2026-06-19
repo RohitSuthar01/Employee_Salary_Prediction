@@ -81,35 +81,15 @@ Saved the trained model and scaler to disk with joblib so it can be reused in an
 
 ## 📊 Visualizations & Graphs
 
-### Feature Correlation with Salary
-Shows which features are most strongly correlated with salary — experience and company size tend to show the strongest positive relationship.
-
-![Correlation Heatmap](images/correlation_heatmap.png)
-
 ### Experience vs Salary (Regression Line)
 A clear upward linear trend: salary increases steadily as experience increases, which is exactly why a regression-based approach makes sense here.
 
 ![Experience vs Salary](images/experience_vs_salary.png)
 
-### Salary Distribution by Job Role
-Box plot showing how salary ranges differ across job roles, including spread and outliers within each role.
-
-![Salary by Job Role](images/salary_by_jobrole.png)
-
 ### Actual vs Predicted Salary
 Compares the model's predicted salaries against the true salaries on the test set — points closer to the red dashed line indicate more accurate predictions.
 
 ![Actual vs Predicted](images/actual_vs_predicted.png)
-
-### Residual Plot
-Plots prediction errors (residuals) against predicted values. Residuals scattered evenly around zero (with no obvious pattern) indicate the model isn't systematically over- or under-predicting.
-
-![Residual Plot](images/residual_plot.png)
-
-### Feature Importance
-Shows which features the Random Forest model relied on most when making predictions — experience and company role tend to dominate.
-
-![Feature Importance](images/feature_importance.png)
 
 ### Model Comparison
 Compares the R² score of Linear Regression vs Random Forest, showing how each model performed relative to the other.
