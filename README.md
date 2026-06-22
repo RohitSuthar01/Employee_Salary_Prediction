@@ -11,7 +11,7 @@ This project is an **end-to-end regression-based ML system** that takes details 
 ---
 
 ## 🎯 What Problem Are We Solving?
-
+ 
 Salary decisions are often inconsistent — different recruiters or managers may offer different pay for similar roles based on guesswork, negotiation skill, or bias rather than objective criteria. This creates pay gaps and makes it hard for both companies and job-seekers to know what a "fair" salary looks like for a given profile.
 
 **The problem this project solves:** given an employee's profile, predict a data-driven, consistent salary estimate — useful for HR teams setting pay bands, for job-seekers benchmarking offers, and for companies auditing pay equity.
