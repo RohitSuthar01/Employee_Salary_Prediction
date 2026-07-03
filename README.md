@@ -8,7 +8,7 @@ A complete machine learning project that predicts an employee's salary based on 
 
 This project is an **end-to-end regression-based ML system** that takes details about an employee (years of experience, education level, job role, location, company size) and predicts their expected salary. It covers the full machine learning lifecycle: data exploration, cleaning, feature engineering, model training, evaluation, tuning, and saving the final model for reuse.
 
----
+---  
 
 ## 🎯 What Problem Are We Solving?
  
