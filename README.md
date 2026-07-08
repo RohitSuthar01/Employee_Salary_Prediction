@@ -10,7 +10,7 @@ This project is an **end-to-end regression-based ML system** that takes details 
 
 ---  
 
-## 🎯 What Problem Are We Solving?
+## 🎯 What Problem Are We Solving? 
  
 Salary decisions are often inconsistent — different recruiters or managers may offer different pay for similar roles based on guesswork, negotiation skill, or bias rather than objective criteria. This creates pay gaps and makes it hard for both companies and job-seekers to know what a "fair" salary looks like for a given profile.
 
